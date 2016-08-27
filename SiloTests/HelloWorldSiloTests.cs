@@ -46,41 +46,41 @@ namespace SiloTests
 
         private IGrainFactory GrainFactory => _fixture.Cluster.GrainFactory;
 
-        [Fact]
-        public async Task SiloSayHelloTest()
-        {
-            // The Orleans silo / client test environment is already set up at this point.
+        //[Fact]
+        //public async Task SiloSayHelloTest()
+        //{
+        //    // The Orleans silo / client test environment is already set up at this point.
 
-            long id = new Random().Next();
-            const string greeting = "Bonjour";
+        //    long id = new Random().Next();
+        //    const string greeting = "Bonjour";
 
-            IHello grain = GrainFactory.GetGrain<IHello>(id);
+        //    IHello grain = GrainFactory.GetGrain<IHello>(id);
             
-            // This will create and call a Hello grain with specified 'id' in one of the test silos.
-            string reply = await grain.SayHello(greeting);
+        //    // This will create and call a Hello grain with specified 'id' in one of the test silos.
+        //    string reply = await grain.SayHello(greeting);
             
-            Assert.NotNull(reply);
-            Assert.Equal($"You said: '{greeting}', I say: Hello!", reply);
-        }
+        //    Assert.NotNull(reply);
+        //    Assert.Equal($"You said: '{greeting}', I say: Hello!", reply);
+        //}
 
-        [Fact]
-        public async Task SiloSayHelloArchiveTest()
-        {
-            long id = new Random().Next();
-            const string greeting1 = "Bonjour";
-            const string greeting2 = "Hei";
+        //[Fact]
+        //public async Task SiloSayHelloArchiveTest()
+        //{
+        //    long id = new Random().Next();
+        //    const string greeting1 = "Bonjour";
+        //    const string greeting2 = "Hei";
 
-            IHelloArchive grain = GrainFactory.GetGrain<IHelloArchive>(id);
+        //    IHelloArchive grain = GrainFactory.GetGrain<IHelloArchive>(id);
 
-            // This will directly call the grain under test.
-            await grain.SayHello(greeting1);
-            await grain.SayHello(greeting2);
+        //    // This will directly call the grain under test.
+        //    await grain.SayHello(greeting1);
+        //    await grain.SayHello(greeting2);
 
-            var greetings = (await grain.GetGreetings()).ToList();
+        //    var greetings = (await grain.GetGreetings()).ToList();
 
-            Assert.Contains(greeting1, greetings);
-            Assert.Contains(greeting2, greetings);
-        }
+        //    Assert.Contains(greeting1, greetings);
+        //    Assert.Contains(greeting2, greetings);
+        //}
     }
 
     /// <summary>
