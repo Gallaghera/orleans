@@ -1,3 +1,0 @@
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\NonSiloTests\obj\Debug\Test.NonSilo.csprojResolveAssemblyReference.cache
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\NonSiloTests\obj\Debug\NonSiloTests.dll
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\NonSiloTests\obj\Debug\NonSiloTests.pdb

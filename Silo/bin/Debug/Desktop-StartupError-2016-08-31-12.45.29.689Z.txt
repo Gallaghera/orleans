@@ -1,0 +1,4 @@
+2016-08-31-12.45.29.689ZZ
+ERROR starting Orleans silo name=Desktop Exception=
+Exc level 0: System.SystemException: Failed to start Orleans silo 'Desktop' as a Primary node.
+   at Vylon.Achievement.Silo.OrleansHostWrapper.Run() in D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\OrleansHostWrapper.cs:line 42

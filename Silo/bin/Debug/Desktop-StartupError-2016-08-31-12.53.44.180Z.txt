@@ -1,0 +1,9 @@
+2016-08-31-12.53.44.180ZZ
+ERROR starting Orleans silo name=Desktop Exception=
+Exc level 0: System.InvalidOperationException: Grain method invoker classes Vylon.Achievement.Interfaces.OrleansCodeGenActionGrainMethodInvoker and Vylon.Achievement.Interfaces.OrleansCodeGenActionGrainMethodInvoker use the same interface id -1318300710
+   at Orleans.Runtime.SiloAssemblyLoader.GetGrainMethodInvokerTypes(Boolean strict)
+   at Orleans.Runtime.GrainTypeManager.InitializeInvokerMap(SiloAssemblyLoader loader, Boolean strict)
+   at Orleans.Runtime.GrainTypeManager.Start(Boolean strict)
+   at Orleans.Runtime.Silo.DoStart()
+   at Orleans.Runtime.Silo.Start()
+   at Orleans.Runtime.Host.SiloHost.StartOrleansSilo(Boolean catchExceptions)

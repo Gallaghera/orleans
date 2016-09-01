@@ -1,0 +1,8 @@
+2016-08-31-12.38.41.699ZZ
+ERROR starting Orleans silo name=Desktop Exception=
+Exc level 0: System.InvalidOperationException: Precondition violated: GetLoadedGrainTypes should not return a duplicate type (Vylon.Achievement.Grains.UserGrain)
+   at Orleans.Runtime.SiloAssemblyLoader.GetGrainClassTypes(Boolean strict)
+   at Orleans.Runtime.GrainTypeManager.Start(Boolean strict)
+   at Orleans.Runtime.Silo.DoStart()
+   at Orleans.Runtime.Silo.Start()
+   at Orleans.Runtime.Host.SiloHost.StartOrleansSilo(Boolean catchExceptions)

@@ -1,0 +1,155 @@
+[2016-08-31 12:49:07.045 GMT    12	INFO   	100000	AssemblyLoader.Client	]	Recursively searching for assemblies in D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug...	
+[2016-08-31 12:49:07.072 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\HelloWorld.Grains.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.075 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\HelloWorld.Interfaces.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.354 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.466 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Microsoft.CodeAnalysis.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.470 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.474 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.495 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Newtonsoft.Json.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.497 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Orleans.dll
+	* Assembly filename is excluded.	
+[2016-08-31 12:49:07.499 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\OrleansCodeGenerator.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.502 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\OrleansDependencyInjection.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.507 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\OrleansRuntime.dll
+	* Assembly filename is excluded.	
+[2016-08-31 12:49:07.521 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\System.Collections.Immutable.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.539 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\System.Reflection.Metadata.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.542 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Vylon.Achievement.Grains.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.545 GMT    12	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Vylon.Achievement.Interfaces.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2016-08-31 12:49:07.547 GMT    12	INFO   	100000	AssemblyLoader.Client	]	Loading assembly D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\OrleansProviders.dll...	
+[2016-08-31 12:49:07.559 GMT    12	INFO   	100000	AssemblyLoader.Client	]	1 assemblies loaded.	
+[2016-08-31 12:49:07.601 GMT    12	INFO   	100313	OutsideRuntimeClient	]	---------- Initializing OutsideRuntimeClient on Desktop at 192.168.1.101 Client Id = *cli/5f1ffb94 ----------	
+[2016-08-31 12:49:07.620 GMT    12	INFO   	100314	OutsideRuntimeClient	]	---------- Starting OutsideRuntimeClient with runtime Version='1.2.3.0 (Release).' in AppDomain=<AppDomain.Id=1, AppDomain.FriendlyName=Vylon.Achievement.Silo.vshost.exe> Config= 
+ Platform version info:
+   .NET version: 4.0.30319.42000
+   Is .NET 4.5=True
+   OS version: Microsoft Windows NT 6.2.9200.0
+   GC Type=Server GCLatencyMode=Batch
+   Host: Desktop
+   Processor Count: 6
+Client Configuration:
+   Config File Name: 
+   Start time: 2016-08-31 12:49:07.610 GMT
+   Gateway Provider: Config
+   Gateways[1]:
+      127.0.0.1:40000
+   Preferred Gateway Index: -1
+   GatewayListRefreshPeriod: 00:01:00
+   Azure:
+      DeploymentId: Andre
+      DataConnectionString: null
+   Preferred Address Family: InterNetwork
+   DNS Host Name: Desktop
+   Client Name: Client
+   Tracing: 
+     Default Trace Level: Info
+     TraceLevelOverrides: None
+     Trace to Console: True
+     Trace File Name: D:\Documents\BitBucket\Vylon.Achievements\Orleans\Silo\bin\Debug\Client-2016-08-31-12.49.05.796Z.log
+     LargeMessageWarningThreshold: 85000
+     PropagateActivityId: False
+     BulkMessageLimit: 5
+   Statistics: 
+     MetricsTableWriteInterval: 00:00:30
+     PerfCounterWriteInterval: -00:00:00.0010000
+     LogWriteInterval: 00:05:00
+     WriteLogStatisticsToTable: True
+     StatisticsCollectionLevel: Info
+   Messaging:
+       Response timeout: 00:30:00
+       Maximum resend count: 0
+       Resend On Timeout: False
+       Maximum Socket Age: 10675199.02:48:05.4775807
+       Drop Expired Messages: True
+       Client Sender Buckets: 8192
+       Use standard (.NET) serializer: False   [NOTE: This *MUST* match the setting on the server or nothing will work!]
+       Use fallback json serializer: False   [NOTE: This *MUST* match the setting on the server or nothing will work!]
+       Buffer Pool Buffer Size: 4096
+       Buffer Pool Max Size: 10000
+       Buffer Pool Preallocation Size: 250
+       Use Message Batching: False
+       Max Message Batching Size: 10
+   Providers:
+       No providers configured.
+	
+[2016-08-31 12:49:07.666 GMT    12	INFO   	101309	Messaging.GatewayManager	]	Found 1 knownGateways from Gateway listProvider [gwy.tcp://127.0.0.1:40000/0]	
+[2016-08-31 12:49:09.010 GMT    12	WARNING	100178	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:40000/0	192.168.1.101:0]	Unable to connect to gateway at address gwy.tcp://127.0.0.1:40000/0 on trial 0.	
+[2016-08-31 12:49:09.019 GMT    12	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:40000/0	192.168.1.101:0]	Marking gateway at address gwy.tcp://127.0.0.1:40000/0 as Disconnected	
+[2016-08-31 12:49:10.027 GMT    12	WARNING	100178	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:40000/0	192.168.1.101:0]	Unable to connect to gateway at address gwy.tcp://127.0.0.1:40000/0 on trial 1.	
+[2016-08-31 12:49:10.033 GMT    12	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:40000/0	192.168.1.101:0]	Marking gateway at address gwy.tcp://127.0.0.1:40000/0 as Disconnected	
+[2016-08-31 12:49:10.038 GMT    12	WARNING	100912	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:40000/0	192.168.1.101:0]	Marking gateway at address gwy.tcp://127.0.0.1:40000/0 as Dead in my client local gateway list.	
+[2016-08-31 12:49:10.053 GMT    12	WARNING	100157	CallbackData	192.168.1.101:0]	The target silo became unavailable for message: Request *cli/5f1ffb94@9d70e98c->S127.0.0.1:40000:0TypeManagerId@S00000011 #2: global::Orleans.Runtime.ITypeManager:GetTypeCodeMap(). Target History is: <S127.0.0.1:40000:0:TypeManagerId:@S00000011>. See https://aka.ms/orleans-troubleshooting for troubleshooting help. About to break its promise.	
+[2016-08-31 12:49:10.068 GMT    13	WARNING	100011	OutsideRuntimeClient	192.168.1.101:0]	No callback for response message: Unrecoverable Rejection (info: Target silo S127.0.0.1:40000:0 is unavailable) Response S127.0.0.1:40000:0TypeManagerId@S00000011->*cli/5f1ffb94@9d70e98c #2: global::Orleans.Runtime.ITypeManager:GetTypeCodeMap()	
+[2016-08-31 12:49:10.087 GMT    12	INFO   	100000	OutsideRuntimeClient	192.168.1.101:0]	OutsideRuntimeClient.Reset(): client Id *cli/5f1ffb94	
+[2016-08-31 12:49:10.169 GMT    12	INFO   	100704	ClientLogStatistics	192.168.1.101:0]	Statistics: ^^^
+App.Requests.Latency.Average.Millis=2062.000
+App.Requests.LatencyHistogram.Millis=[1677.7216:3355.4431]=1, 
+App.Requests.TimedOut.Current=0
+App.Requests.Total.Requests.Current=1
+Client.ConnectedGatewayCount=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=0
+Messaging.Received.Bytes.Total.Current=0
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.Total.Current=0
+Messaging.Received.MessageSizeHistogram.Bytes=
+Messaging.Rejected.Request.Current=1
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=0
+Messaging.Sent.Bytes.Total.Current=0
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.Total.Current=0
+Messaging.Sent.MessageSizeHistogram.Bytes=
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=2
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=0
+Runtime.CpuUsage=0.000
+Runtime.DOT.NET.ThreadPool.InUse.CompletionPortThreads=0
+Runtime.DOT.NET.ThreadPool.InUse.WorkerThreads=1
+Runtime.GC.AllocatedBytesInKbPerSec=0.000
+Runtime.GC.GenCollectonCount=gen0=6, gen1=3, gen2=2
+Runtime.GC.GenSizesKb=gen0=33575.16, gen1=1016.77, gen2=4950.16
+Runtime.GC.LargeObjectHeapSizeKb=661.326
+Runtime.GC.NumberOfInducedGCs=2.000
+Runtime.GC.PercentOfTimeInGC=0.347
+Runtime.GC.PromotedFinalizationMemoryFromGen0Kb=0.438
+Runtime.GC.PromotedMemoryFromGen1Kb=0.000
+Runtime.GC.TotalMemoryKb=42898
+Runtime.Memory.AvailableMemoryMb=1779
+Runtime.Memory.TotalPhysicalMemoryMb=8192
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=218
+Serialization.BufferPool.CheckedInBuffers.Current=250
+Serialization.BufferPool.CheckedOutBuffers.Current=282
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=32
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=32
+	
+[2016-08-31 12:49:10.186 GMT    12	INFO   	100000	OutsideRuntimeClient	192.168.1.101:0]	OutsideRuntimeClient.ConstructorReset(): client Id *cli/5f1ffb94	
