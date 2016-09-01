@@ -7,8 +7,8 @@
     <ProjectGuid>{943794E3-F54E-4678-B225-B45018344AEC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HelloWorld.Grains</RootNamespace>
-    <AssemblyName>HelloWorld.Grains</AssemblyName>
+    <RootNamespace>Vylon.Achievement.Grains</RootNamespace>
+    <AssemblyName>Vylon.Achievement.Grains</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -55,8 +55,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountGrain.cs" />
     <Compile Include="ActionGrain.cs" />
-    <Compile Include="OrganizationGrain.cs" />
+    <Compile Include="GroupGrain.cs" />
     <Compile Include="UserGrain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\orleans.codegen.cs" />

@@ -1,10 +1,3 @@
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\HelloWorld.exe.config
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\obj\Debug\HelloWorld.exe
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\obj\Debug\HelloWorld.pdb
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\HelloWorld.exe
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\HelloWorld.pdb
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\HelloWorld.Grains.dll
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\HelloWorld.Interfaces.dll
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Microsoft.CodeAnalysis.dll
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
@@ -19,8 +12,6 @@ D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\OrleansPr
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\OrleansRuntime.dll
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\System.Collections.Immutable.dll
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\System.Reflection.Metadata.dll
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\HelloWorld.Grains.pdb
-D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\HelloWorld.Interfaces.pdb
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Microsoft.CodeAnalysis.xml
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
@@ -34,3 +25,12 @@ D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\OrleansRu
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\System.Collections.Immutable.xml
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\System.Reflection.Metadata.xml
 D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\obj\Debug\Silo.csprojResolveAssemblyReference.cache
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Vylon.Achievement.Silo.exe.config
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Vylon.Achievement.Silo.exe
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Vylon.Achievement.Silo.pdb
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Vylon.Achievement.Grains.dll
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Vylon.Achievement.Interfaces.dll
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Vylon.Achievement.Grains.pdb
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\bin\Debug\Vylon.Achievement.Interfaces.pdb
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\obj\Debug\Vylon.Achievement.Silo.exe
+D:\Documents\BitBucket\Vylon.Achievements\Orleans\HelloWorld\obj\Debug\Vylon.Achievement.Silo.pdb

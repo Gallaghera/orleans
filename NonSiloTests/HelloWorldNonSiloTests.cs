@@ -1,6 +1,4 @@
 ﻿using System.Linq;
-using HelloWorld.Grains;
-using HelloWorld.Interfaces;
 using Xunit;
 
 namespace NonSiloTests

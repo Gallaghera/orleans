@@ -6,7 +6,7 @@ using System;
 using Orleans;
 using Orleans.Runtime.Configuration;
 
-namespace HelloWorld
+namespace Vylon.Achievement.Silo
 {
     /// <summary>
     /// Orleans test silo host

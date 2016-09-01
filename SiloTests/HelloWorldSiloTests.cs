@@ -1,7 +1,6 @@
 using System;
 using System.Linq;
 using System.Threading.Tasks;
-using HelloWorld.Interfaces;
 using Orleans;
 using Orleans.Runtime.Configuration;
 using Orleans.TestingHost;

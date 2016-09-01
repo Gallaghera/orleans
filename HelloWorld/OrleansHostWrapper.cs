@@ -3,7 +3,7 @@ using System.Net;
 using Orleans.Runtime.Configuration;
 using Orleans.Runtime.Host;
 
-namespace HelloWorld
+namespace Vylon.Achievement.Silo
 {
     internal class OrleansHostWrapper : IDisposable
     {
